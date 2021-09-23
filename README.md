@@ -1,3 +1,3 @@
-# DEMA
+# DEMO
 
 Description.
